@@ -1,6 +1,6 @@
 # CLOUD DATA ENGINEERING
 
-![cloud-data-enginnering-logo](./img/cloud-data-engineering.png)
+![DATA ENGINEERING](https://github.com/user-attachments/assets/9ef184f0-514b-459d-9c4d-afb3f1c78344)
 
 This repository include the Roadmap for Data Engineering. Since Data Engineering is a broad field we'll try to cover following tools.
 
